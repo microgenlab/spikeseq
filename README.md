@@ -5,7 +5,7 @@ Cecilia Salazar1,2,#, Ferrés Ignacio1,2, Mercedes Paz2,3,4, Alicia Costábile2,
 1 Laboratorio de Genómica Microbiana. Institut Pasteur de Montevideo. Uruguay 2 Centro de Innovación en Vigilancia Epidemiológica, Institut Pasteur de Montevideo. Uruguay 3 Laboratorio de Evolución Experimental de Virus, Institut Pasteur de Montevideo. Uruguay 4 Laboratorio de Virología Molecular, Facultad de Ciencias, Universidad de la República. Uruguay 5 Sección Bioquímica, Facultad de Ciencias, Universidad de la República. Uruguay 6 Wellcome Sanger Institute, Hinxton. United Kingdom 7 Centro de Biología Integrativa, Universidad Mayor. Chile #Corresponding authors
 
 R scripts to generate the main figures.
-Packages:
+Packages:<br />
 [stringr](https://github.com/tidyverse/stringr)<br />
 [dplyr](https://github.com/tidyverse/dplyr)<br />
 [ggplot2](https://github.com/tidyverse/ggplot2)<br />
