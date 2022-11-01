@@ -6,12 +6,12 @@ Cecilia Salazar1,2,#, Ferrés Ignacio1,2, Mercedes Paz2,3,4, Alicia Costábile2,
 
 R scripts to generate the main figures.
 Packages:
-[stringr](https://github.com/tidyverse/stringr)
-[dplyr](https://github.com/tidyverse/dplyr)
-[ggplot2](https://github.com/tidyverse/ggplot2)
-[ggalluvial](https://github.com/corybrunson/ggalluvial)
-[ggsignif](https://github.com/const-ae/ggsignif)
-[ggpubr](https://github.com/cran/ggpubr)
-[gridExtra](https://github.com/baptiste/gridExtra)
-[circlize](https://github.com/jokergoo/circlize)
-[formattable](https://github.com/renkun-ken/formattable)
+[stringr](https://github.com/tidyverse/stringr)<br />
+[dplyr](https://github.com/tidyverse/dplyr)<br />
+[ggplot2](https://github.com/tidyverse/ggplot2)<br />
+[ggalluvial](https://github.com/corybrunson/ggalluvial)<br />
+[ggsignif](https://github.com/const-ae/ggsignif)<br />
+[ggpubr](https://github.com/cran/ggpubr)<br />
+[gridExtra](https://github.com/baptiste/gridExtra)<br />
+[circlize](https://github.com/jokergoo/circlize)<br />
+[formattable](https://github.com/renkun-ken/formattable)<br />
