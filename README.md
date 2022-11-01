@@ -1,4 +1,4 @@
-Fast and cost-effective SARS-CoV-2 variant detection using Oxford Nanopore full-length spike gene sequencing
+**Fast and cost-effective SARS-CoV-2 variant detection using Oxford Nanopore full-length spike gene sequencing**
 
 Cecilia Salazar1,2,#, Ferrés Ignacio1,2, Mercedes Paz2,3,4, Alicia Costábile2,,3,4,5, Gonzalo Moratorio2,3,4, Pilar Moreno2,3,4, Gregorio Iraola1,2,6,7,#
 
